@@ -26,3 +26,5 @@ likely Python 2.7 would be also fine, but who knows? :P
 (Optional but recommended):
 * NVIDIA cuDNN if you have NVIDIA GPUs on your machines. https://developer.nvidia.com/rdp/cudnn-download
   The easiest way to get (most) these is to use an all-in-one installer such as Anaconda from Continuum. These are available for       multiple architectures.
+## Credits
+Got the dataset from Natural Language Processing course (Coursera) https://www.coursera.org/learn/language-processing
